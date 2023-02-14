@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimi Gvtisavrishvili</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/dc/c9/ce/dcc9cea8525b59b91d1a6ed0e27fff59.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gvtis09&label=Profile%20views&color=0e75b6&style=flat" alt="gvtis09" /> </p>
 
@@ -17,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jgvtis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jgvtis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jimi-gvtisavrishvili-119123263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jimi-gvtisavrishvili-119123263/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jimi-gvtisavrishvili-119123263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jimi-gvtisavrishvili-119123263" height="30" width="40" /></a>
 <a href="https://instagram.com/j.gvtisavrishvili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j.gvtisavrishvili" height="30" width="40" /></a>
 </p>
 
