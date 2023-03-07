@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Front-End development**
 
-- 🌱 I’m currently learning **PhpStorm**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **PhpStorm**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **jimigvtisavrishvili945@gmail.com**
 
